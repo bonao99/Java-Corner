@@ -1,0 +1,4 @@
+com/mycompany/mvctest/viewhandlers/CustomerViewHandler.class
+model/Customer.class
+controller/CustomerController.class
+model/DataAccess.class
